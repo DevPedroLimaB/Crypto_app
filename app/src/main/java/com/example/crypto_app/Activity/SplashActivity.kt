@@ -1,17 +1,10 @@
-package com.example.crypto_app
+package com.example.crypto_app.Activity
 
 import android.content.Intent
 import android.os.Bundle
-import android.view.LayoutInflater
 import android.view.View
 import android.view.WindowManager
-import android.view.WindowManager.LayoutParams
-import android.view.inputmethod.InputBinding
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.compose.ui.graphics.Color
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import com.example.crypto_app.databinding.ActivitySplashBinding
 
 class SplashActivity : AppCompatActivity() {
